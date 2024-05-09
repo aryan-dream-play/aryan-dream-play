@@ -49,7 +49,7 @@
 
 ------
 
-[![image](https://img.shields.io/badge/Mustafa%20Yan%C4%B1k%20Github-007BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanRaj)
+[![image](https://img.shields.io/badge/Aryan_Raj%20Yan%C4%B1k%20Github-007BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanRaj)
 
 
 
