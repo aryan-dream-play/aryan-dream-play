@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan Raj 
-<h3 align="center">Senior Android Developer</h3>
+<h3 align="center">Android Developer</h3>
 
-- 🔭 I’m currently working as an **Android Developer | Senior Specialist**
+- 🔭 I’m currently working as an **Android Developer**
   
-- 🌱 I’m currently working/learning **Kotlin, Flutter and iOS**
+- 🌱 I’m currently working/learning **Kotlin, Spring boot,Flutter and iOS**
 
 - 👯 I’m looking to collaborate on **mobile application projects**
 
