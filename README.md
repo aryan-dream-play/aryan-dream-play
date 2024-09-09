@@ -49,7 +49,13 @@
 
 ------
 
-[![image](https://img.shields.io/badge/Aryan_RajGithub-007BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanRaj)
+<div align="center">
+  <img  src="snake.svg"  />
+</div>
+
+[![image](https://img.shields.io/badge/Aryan_RajGithub-007BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryan-dream-play)
+
+
 
 
 
